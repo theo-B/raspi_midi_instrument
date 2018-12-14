@@ -1,0 +1,13 @@
+add http://drobilla.net/plugins/mda/EPiano 1
+midi_map 1 env_decay 0 102 0 1
+midi_map 1 env_release 0 103 0 1
+midi_map 1 hardness 0 104 0 1
+midi_map 1 treble_boost 0 105 0 1
+midi_map 1 modulation 0 106 0 1
+midi_map 1 lfo_rate 0 107 0 1
+midi_map 1 vel_sense 0 108 0 1
+midi_map 1 stereo_width 0 109 0 1
+midi_map 1 polyphonic 0 110 0 1
+midi_map 1 fine_tuning 0 111 0 1
+midi_map 1 random_tuning 0 112 0 1
+midi_map 1 overdrive 0 113 0 1
